@@ -1,0 +1,44 @@
+
+Perfil MOVISTAR_6100 en la interfaz Wi-Fi: 
+======================================================================= 
+
+Aplicado: Perfil de todos los usuarios    
+
+Informaci¢n del perfil 
+---------------------- 
+    Versi¢n                : 1
+    Tipo                   : LAN inal mbrica
+    Nombre                 : MOVISTAR_6100
+    Opciones de control    : 
+        Modo de conexi¢n : conectar autom ticamente
+        Difusi¢n de red  : conectarse solo si esta red est  difundiendo
+        Cambio autom tico: no cambiar a otras redes
+        Selecci¢n aleatoria de direcci¢n MAC: deshabilitada
+
+Configuraci¢n de conectividad 
+----------------------------- 
+    N£mero de SSID        : 1
+    Nombre de SSID       : "MOVISTAR_6100"
+    Tipo de red           : Infraestructura
+    Tipo de radio          : [ Cualquier tipo de radio ]
+    Extensi¢n de proveedor         : no est  presente
+
+Configuraci¢n de seguridad 
+-------------------------- 
+    Autenticaci¢n                  : WPA2-Personal
+    Cifrado                        : CCMP
+    Autenticaci¢n                  : WPA2-Personal
+    Cifrado                        : GCMP
+    Clave de seguridad                         : Presente
+    Contenido de la clave  : pfTKF727cePENKrqABpD
+
+Configuraci¢n de costos 
+------------- 
+    Costo                   : Sin restricciones
+    Congestionado              : No
+    A punto de alcanzar el l¡mite de datos: No
+    L¡mite de datos superado        : No
+    Itinerancia                : No
+    Origen de costo            : Predeterminado
+
+No se encuentra el perfil "Silva" en el sistema.
